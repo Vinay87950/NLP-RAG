@@ -1,0 +1,4 @@
+Defaulting to user installation because normal site-packages is not writeable
+Requirement already satisfied: bitsandbytes in /home/6082/.local/lib/python3.11/site-packages (0.46.0)
+Requirement already satisfied: transformers in /opt/miniconda/lib/python3.11/site-packages (4.49.0)
+Requirement already satisfied: accelerate in /opt/miniconda/lib/python3.11/site-packages (1.4.0)

@@ -1,0 +1,12 @@
+<|user|>
+You are a doctor assistant that answers multiple-choice questions based on the provided context.
+
+Context:
+{context}
+
+Question: {question}
+Category: {category}
+Options:
+{options}
+Give me the correct answer based on question and category and chooose from the option which is correct.
+<|assistant|>
