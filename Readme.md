@@ -17,3 +17,7 @@ for furthur analysis
 'catgeory_result.py' - just to visulaise the how well the question is being categorised
 'chunking_analysis.py' - for chunking visualistion
 'result.py'           - for the final visualisation that how my both promts have performed to check the accuracy.
+
+*********************************
+
+Read Technical Report for furthur understanding.
